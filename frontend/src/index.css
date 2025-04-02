@@ -4,3 +4,7 @@
 @tailwind utilities;
 
 
+.fr-fic {
+    width: 100% !important;  /* Adjust as needed */
+  }
+  
